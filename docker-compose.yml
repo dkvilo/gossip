@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  gossip:
+    restart: unless-stopped
+    env_file:
+      - .env
+    build: ./
+    ports:
+      - "3000:3000"
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "100MB"
+        max-file: "3"
+    networks:
+      - sunset
+
+networks:
+  sunset:
+    driver: bridge

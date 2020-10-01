@@ -14,8 +14,8 @@ Gossip is websocket based Messaging Service written in Golang, Gossip uses advan
 
 # Example App (Included)
 
-![Preview Screenshot 1](https://github.com/dkvilo/gossip/blob/master/public/images/chat_s_1.png)
 ![Preview Screenshot 2](https://github.com/dkvilo/gossip/blob/master/public/images/chat_s_2.png)
+![Preview Screenshot 1](https://github.com/dkvilo/gossip/blob/master/public/images/chat_s_1.png)
 
 # Web Client Example 
 ```js

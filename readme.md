@@ -1,6 +1,6 @@
 # Gossip
 
-Gossip is websocket based Messaging Service written in Golang, Gossip uses advantage of concurrency, also it is build around room based messaging architecture.
+Gossip is a WebSocket based Messaging Service written in Golang, Gossip uses the advantage of concurrency, also it is built on the namespace based messaging architecture.
 
 - Client Limit per Room: 256 (configurable)
 - Maximum Message Size: 1024 (configurable)

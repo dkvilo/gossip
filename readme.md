@@ -12,7 +12,7 @@ Gossip is a WebSocket based Messaging Service written in Golang, Gossip uses the
   $ docker-compose up --build
 ```
 
-# Example App (Included)
+# Example App
 
 ![Preview Screenshot 2](https://github.com/dkvilo/gossip/blob/master/public/images/chat_s_2.png)
 ![Preview Screenshot 1](https://github.com/dkvilo/gossip/blob/master/public/images/chat_s_1.png)
